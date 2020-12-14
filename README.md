@@ -9,3 +9,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on design-thinking apps
 - 📫 How to reach me: mathulilian97@gmail.com
 - ⚡ Fun fact: I want to be model when I grow up
+
+Languages and Tools:
+MongoDB
+Express.JS
+Node.JS
+React.JS
