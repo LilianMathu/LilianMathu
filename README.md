@@ -48,6 +48,5 @@ Get to know me:
 <br />
 
 
-<img width="550" alt="Manik Roy Github Stats"  src="https://github-readme-stats.vercel.app/api?username=manik-roy&show_icons=true"/>
+<img width="550" alt="Lilian Mathu Github Stats"  src="https://github-readme-stats.vercel.app/api?username=LilianMathu&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=manik-roy&card_width=550)](https://github.com/manik-roy/manik-roy)
