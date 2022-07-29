@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full-stack MERN developer with love for structure and order and quality. I love spending time on finetuning and optimizing web apps. Also, I like working in a team and enjoy the diversity each team member bring to the table. I am a design-thinking enthusiast, with great interest in designing and developing human-centered apps.
+I am a full-stack MERN developer with love for structure, order and quality. I spend much of my time fine tuning software products to ensure they meet the needs of people who will use them. Also, I like working in a team and enjoy the diversity each team member bring to the table. I am a design-thinking enthusiast, with great interest in designing and developing human-centered apps.
 
 Get to know me:
 - 🔭 I have a tech startup. We focus on building human centered web and mobile applications
