@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I am a full-stack MERN developer with good knowledge of front-end techniques. I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps. Also, I like working in a team, you'll learn faster and much more. As the saying goes: 'two heads are better than one'. I am a design-thinking enthusiast, with great interest in creating human-centered apps.
+I am a full-stack MERN developer with love for structure and order and quality. I love spending time on finetuning and optimizing web apps. Also, I like working in a team and enjoy the diversity each team member bring to the table. I am a design-thinking enthusiast, with great interest in designing and developing human-centered apps.
 
 Get to know me:
-- 🔭 I’m currently working on my startup Mobile Mechanics
-- 🌱 I’m currently learning design-thinking and advanced React
-- 👯 I’m looking to collaborate on design-thinking apps
+- 🔭 I have a tech startup. We focus on building human centered web and mobile applications
+- 🌱 I’m currently learning advanced React.
+- 👯 I’m open to collaborating on designing and development of human-centered apps
 - 📫 How to reach me: mathulilian97@gmail.com
-- ⚡ Fun fact: I want to be model when I grow up
 
 ### Connect with me:
 
